@@ -1,4 +1,4 @@
-# gym-management
+# Gym-management
 Gym Management System provides an easy to use interface for the users and a database for the admin to maintain the records of gym members.
 
 ### Login Page
@@ -9,4 +9,32 @@ Firstly, the user or the employee will log in to the system which has been provi
 “Gym System” is the system that provides an easy to the user interface for the users and a database for the admin. To maintain the records of gym members. This system is written in PHP and MYSQL. Continuously, it consists of one main component Admin side. This system project is a web-based application.
 
 ![Members registration page](/images/member.png)
+
+## Installation:
+
+After Starting Apache and MySQL in XAMPP, follow the following steps:
+
+1st Step: Extract file
+
+2nd Step: Copy the main project folder
+
+3rd Step: Paste in xampp/htdocs/
+
+Now Connecting Database 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+
+5th Step: Click on the databases tab
+
+6th Step: Create a database named “realestatephp” and then click on the import tab
+
+7th Step: Click on browse file and select “realestatephp.sql” file which is inside “DATABASE” folder
+
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/Gym-System-in-PHP”
+
+Need Help or Customization?
+
+If you need assistance with setup, customization, or any other support, feel free to contact me. I’m here to help and provide the best solutions for your needs.
 
